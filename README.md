@@ -1,6 +1,6 @@
 # npmtest-npm-license
 
-#### test coverage for  [npm-license (v0.3.3)](https://github.com/AceMetrix/npm-license#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-license.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-license) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-license.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-license)
+#### basic test coverage for  [npm-license (v0.3.3)](https://github.com/AceMetrix/npm-license#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm-license.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm-license) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm-license.svg)](https://travis-ci.org/npmtest/node-npmtest-npm-license)
 
 #### Check license info for a module
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-npm-license/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-npm-license/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-npm-license/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-npm-license/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-license/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-license/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-npm-license/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-npm-license/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-npm-license/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-npm-license/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-npm-license/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-npm-license/build/coverage.html/index.html)
 
